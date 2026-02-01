@@ -5,7 +5,7 @@ Web Developer
 ![](https://github-readme-stats.vercel.app/api?username=m-ouchi7&show_icons=true&theme=radical)
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,vue,express)](https://skillicons.dev)
